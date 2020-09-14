@@ -1,6 +1,6 @@
 {
-  "Title":"MIJJJH",
-  "Year":"-500",
-  "Rate":"99.99"
-  "Msg":"this is NOTT Fine dude"
+  "Title":"Version 0.5",
+  "Year":"2020",
+  "Rate":"لا يوجد"
+  "Msg":"New version is out"
 }
