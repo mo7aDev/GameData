@@ -1,6 +1,0 @@
-{
-  "Title":"Version 0.5",
-  "Year":"2020",
-  "Rate":"لا يوجد"
-  "Msg":"New version is out"
-}
