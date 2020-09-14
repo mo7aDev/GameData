@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "dailyPuzzles": [
+    {
+      "0": {
+        "Rows": [
+          "qsd",
+          "re",
+          "utyb",
+          "h"
+        ],
+        "Answers": [
+          "azrf",
+          "hkeh",
+          "sffz"
+        ]
+      },
+      "1": {
+        "Rows": [
+          "sq",
+          "s",
+          "ffgh"
+        ],
+        "Answers": [
+          "ehh",
+          "ggh",
+          "ztf"
+        ]
+      },
+      "2": {
+        "Rows": [
+          "hed",
+          "z",
+          "ggd",
+          "hdf",
+          "t"
+        ],
+        "Answers": [
+          "fdfgh",
+          "jettd",
+          "ktfdz"
+        ]
+      }
+    }
+  ]
+}
